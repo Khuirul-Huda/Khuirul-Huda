@@ -22,3 +22,8 @@ Call me "Huda"
 ) ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 ) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
+
+# Stats
+![Statistics](https://github-readme-stats.vercel.app//api?username=Khuirul-Huda&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+# Top Languages
