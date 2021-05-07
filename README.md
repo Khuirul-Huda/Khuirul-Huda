@@ -9,7 +9,7 @@ Call me "Huda"
 )](https://github.com/Khuirul-Huda) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 )](https://situsrumahan.xyz) 
 
-# Currently [NOT] Learn
+<!--# Currently [NOT] Learn
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 ) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 ) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -21,7 +21,7 @@ Call me "Huda"
 ) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=White
 ) ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 ) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-)
+)-->
 
 # Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=Khuirul-Huda&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -31,3 +31,4 @@ Call me "Huda"
 
 # Buy Me A Coffe☕
 [![Saweria](https://img.shields.io/badge/DONATE-SAWERIA-green?style=for-the-badge)](https://saweria.co/khuirulhuda)
+![Coming Soon](https://img.shields.io/badge/SOON-BUY_ME_A_COFFE-green?style=for-the-badge)
