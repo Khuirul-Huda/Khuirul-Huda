@@ -1,5 +1,6 @@
 # Hi There!
-Call me "Huda"
+Call me "Huda", I am a high school student.
+
 
 # Contact
 
@@ -7,7 +8,7 @@ Call me "Huda"
 )](mailto:hudah2102@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/khuirul_huda) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/Khuirul-Huda) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
-)](https://situsrumahan.xyz) 
+)](#) 
 
 <!--# Currently [NOT] Learn
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
