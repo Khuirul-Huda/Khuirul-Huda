@@ -1,5 +1,5 @@
 ## Hi There!
-Call me "Huda", I am a 15 y.o high school student.
+Call me "Huda", 15 y.o high school student.
 
 
 ## Contact
