@@ -1,5 +1,5 @@
 ## Hi There!
-Call me "Huda", 15 y.o high school student.
+Call me "Huda", 15 y.o 11th grade high school student. I live in a village in Semarang district. my hobby is learn new things, especially in the world of technology. I like it very much but my priority right now is just something called **'SNMPTN'** :)
 
 
 ## Contact
@@ -28,7 +28,7 @@ i'm going to learn:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-My IDE:
+My IDE & Text Editor:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
