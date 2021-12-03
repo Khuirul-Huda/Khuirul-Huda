@@ -1,8 +1,8 @@
-## Hi There!
-Call me "Huda", 15 y.o 11th grade high school student. I live in a village in Semarang district. my hobby is learn new things, especially in the world of technology. I like it very much but my priority right now is just something called **'SNMPTN'** :)
+### Hi There!
+Call me "Huda", 15 y.o 11th grade high school student. I live in a village in Semarang district. I'm studying in a wonderful school. My hobby is learn new things, especially in the world of technology. You can see my repositories here:) I like it very much but my priority right now is just something called **'SNMPTN'** :)
 
 
-## Contact
+### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:saya@khuirulhuda.my.id) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -10,7 +10,7 @@ Call me "Huda", 15 y.o 11th grade high school student. I live in a village in Se
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-khuirul-huda)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khuirul_huda)
 
-## About Me
+### About Me
 
 I have basic knowledge of:
 
@@ -42,12 +42,14 @@ Operating System:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## Stats
+### Stats
 
 ![Statistics](https://github-readme-stats.vercel.app//api?username=Khuirul-Huda&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=FFF)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuirul-Huda&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuirul-Huda&langs_count=10&layout=compact)
 
-## Buy Me A Coffe☕
 
-[![Saweria](https://img.shields.io/badge/DONATE-SAWERIA-green?style=for-the-badge)](https://saweria.co/khuirulhuda)
-![Coming Soon](https://img.shields.io/badge/SOON-BUY_ME_A_COFFE-green?style=for-the-badge)
+### Buy Me A Coffe☕
+Support me^^
+
+[![Saweria](https://img.shields.io/badge/SAWERIA.co-green?style=for-the-badge)](https://saweria.co/khuirulhuda)
+[![Coming Soon](https://img.shields.io/badge/TRAKTEER.ID-green?style=for-the-badge)](https://trakteer.id/khuirul_huda/tip)
