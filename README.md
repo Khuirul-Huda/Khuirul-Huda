@@ -50,6 +50,8 @@ Operating System:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuirul-Huda&langs_count=10&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=khuirul_huda&layout=compact)
 
+##### Language Trends Since December 2021
+![](https://wakatime.com/share/@khuirul_huda/1d1969f3-17c1-48db-90bf-f7b3a4e3f652.svg)
 
 #### Buy Me A Coffe☕
 Support me^^
