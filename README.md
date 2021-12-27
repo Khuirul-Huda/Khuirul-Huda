@@ -48,6 +48,7 @@ Operating System:
 
 ![Statistics](https://github-readme-stats.vercel.app//api?username=Khuirul-Huda&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=FFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuirul-Huda&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=khuirul_huda&layout=compact)
 
 
 #### Buy Me A Coffe☕
