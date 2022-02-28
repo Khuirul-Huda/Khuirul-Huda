@@ -1,5 +1,5 @@
 #### Hi There!
-Call me "Huda", 15 y.o 11th grade high school student. I live in a village in Semarang district. I'm studying in a wonderful school. My hobby is learn new things, especially in the world of technology. You can see my repositories here:) I like it very much <!--but my priority right now is just something called **'SBMPTN'** -->:)
+Call me "Huda", 16 y.o 11th grade high school student. I live in a village in Semarang district. I'm studying in a wonderful school. My hobby is learn new things, especially in the world of technology. You can see my repositories here:) I like it very much <!--but my priority right now is just something called **'SBMPTN'** -->:)
 
 Wanna learn more about Flutter, Node JS, Laravel, React JS and .... But it was very difficult because of the lack of time. I focus on school first👍
 
