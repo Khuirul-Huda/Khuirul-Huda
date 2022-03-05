@@ -1,7 +1,7 @@
 #### Hi There!
 Call me "Huda", 16 y.o 11th grade high school student. I live in a village in Semarang district. I'm studying in a wonderful school. My hobby is learn new things, especially in the world of technology. You can see my repositories here:) I like it very much <!--but my priority right now is just something called **'SBMPTN'** -->:)
 
-Wanna learn more about Flutter, Node JS, Laravel, React JS and .... But it was very difficult because of the lack of time. I focus on school first👍
+<!--Wanna learn more about Flutter, Node JS, Laravel, React JS and .... But it was very difficult because of the lack of time. I focus on school first👍-->
 
 
 #### Contact
@@ -14,8 +14,6 @@ Wanna learn more about Flutter, Node JS, Laravel, React JS and .... But it was v
 
 #### About Me
 
-I have basic knowledge of:
-
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=White
@@ -24,16 +22,13 @@ I have basic knowledge of:
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 ) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )  
-
-i'm going to learn:
-
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 My IDE & Text Editor:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 Version Control:
 
