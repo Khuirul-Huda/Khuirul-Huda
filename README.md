@@ -1,33 +1,40 @@
-#### Hi There!
-Call me "Huda", 16 y.o high school student. I live in a village in Semarang district. I'm studying in a wonderful school. My hobby is learn new things, especially in the world of technology. You can see my repositories here:) I like it very much <!--but my priority right now is just something called **'SBMPTN'** -->:)
+<div align="center">
 
-<!--Wanna learn more about Flutter, Node JS, Laravel, React JS and .... But it was very difficult because of the lack of time. I focus on school first👍-->
+  
+  
+### Hi There!
+Call me "Huda"<br>I'm high school student<br>i loves to code and customize anything such as my OS, so i use 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) btw.
+</div>
+  
+### Tech
+technology and programming language that i've used in my project
+1. Javascript<br>
+Framework: Node.js and Vue.js<br>
+I started learning javascript when one of my friends also started learning javascript(around October 2021). There is separate story about this. I created a discord bot using Node.js and some websites using Vue.js
 
+2. Java<br>
+**MY FIRST PROGRAMMING LANGUAGE!!!!** -- I didn't know it was called Java before. because it was when I was 13 years old. At that time I used an Android application (which is no longer available on PS) to create an Android application where the application uses Java. The first android application (published) that I made was the Tasbih application. Next is.... ***** (chat me for next stories about this)*****  i develop a Spigot plugins using Java too
 
-My IDE & Text Editor:
+3. PHP<br>
+Framework: Laravel
+Around 2020 i created a simple API using native PHP. One years later i created simple shortlink website using Laravel
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+4. C++<br>
+hmm... that's was used for (id: KSN-K) 2022. 
 
-Version Control:
+and some HTML (markup language) and CSS (styling). Used for my class' website BTW
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-Operating System:
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### Stats
-
-![Statistics](https://github-readme-stats.vercel.app//api?username=Khuirul-Huda&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuirul-Huda&langs_count=10&layout=compact)
+  
+<div align="center">
+  
+### Most used languages since december 2021
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=khuirul_huda&layout=compact)
 
-##### Language Trends Since December 2021
-![](https://wakatime.com/share/@khuirul_huda/1d1969f3-17c1-48db-90bf-f7b3a4e3f652.svg)
-
-#### Buy Me A Coffe☕
-Support me^^
-
+  
+---
+  What about... buy me a coffe?<br>
 [![Saweria](https://img.shields.io/badge/SAWERIA.co-green?style=for-the-badge)](https://saweria.co/khuirulhuda)
 [![Coming Soon](https://img.shields.io/badge/TRAKTEER.ID-green?style=for-the-badge)](https://trakteer.id/khuirul_huda/tip)
+
+  </div>
