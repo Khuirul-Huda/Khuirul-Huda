@@ -3,11 +3,11 @@
   
   
 ### Hi There!
-Call me "Huda"<br>I'm high school student<br>I loves to code and customize anything such as my OS, so i use 
+Call me "Huda"<br>I'm a student<br>I loves to code and customize anything such as my OS. I use 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) btw.
 </div>
 
-A story can be seen from the history of this text
+
 
 
 <div align="center">
