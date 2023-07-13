@@ -3,7 +3,7 @@
   
   
 ### 👋 Hi There!
-Call me "Huda". I'm a student. 2 years experienced in game server administration. I loves to code and customize anything such as my OS. I use 
+Call me "Huda". I'm a student. 2 years experienced in game server administration. I have small gaming community. I loves to code and customize anything such as my OS. I use 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) for daily use.
 </div>
 
@@ -13,11 +13,16 @@ Published projects that I develop or have contributed to
 - [mipan-smanega.web.app](https://mipan-smanega.web.app), Site for my class XII MIPA 1 2022/2023.
 - [Dially](https://dially-id.web.app) [unmaintained], a simple to-do list app written in Java. Created by me when I was in junior high school.
 
-
+Of course all projects cannot be listed here, you can look at the 'Repositories' tab to see all my public projects.
 
   
   
 ### 🔥 Most used programming languages 
+
+I am familiar with programming languages ​​such as Java, PHP, Javascript. 
+I also learned some tools on server like firewall, ssh, JVM and some others.
+
+
 since December 2021
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=khuirul_huda&layout=compact)
 
