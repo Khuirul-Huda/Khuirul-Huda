@@ -3,7 +3,9 @@
   
   
 ### 👋 Hi There!
-Call me "Huda". I'm a student. 2 years experienced in game server administration. I have small gaming community. I loves to code and customize anything such as my OS. I use 
+Call me "Huda". Now I am an Informatics Engineering student at a state university in Indonesia.
+
+2 years experienced in game server administration. I have small gaming community. I loves to code and customize anything such as my OS. I use 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) for daily use.
 </div>
 
